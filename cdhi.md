@@ -1,6 +1,6 @@
-# Humanities Commons
+## Humanities Commons
 ---
-## What We Have to Share
+### What We Have to Share
 ---
 <smaller>Kathleen Fitzpatrick // @kfitz // kfitz@msu.edu</smaller><br />
 
