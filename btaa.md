@@ -2,8 +2,8 @@
 ---
 ### Collective Action and the Common Good
 ---
-<br /><smaller>Kathleen Fitzpatrick // @kfitz // kfitz@msu.edu</smaller><br /><br />
-<small>http://presentations.kfitz.info/btaa.html</small>
+<br /><smaller>Kathleen Fitzpatrick // @kfitz // kfitz@msu.edu</smaller><br />
+<small>http://kfitz.info/presentations/btaa.html</small>
 
 Note: I want to start today by thanking Maurice and the BIG Collection team for inviting me to talk with you today. 
 

@@ -3,7 +3,7 @@
 ### Critique, Community, Collaboration
 ---
 ##### Kathleen Fitzpatrick // @kfitz // kfitz@msu.edu
-##### http://presentations.kfitz.info/aiea.html
+##### http://kfitz.info/presentations/aiea.html
 
 Note: Thank you, etc.
 
