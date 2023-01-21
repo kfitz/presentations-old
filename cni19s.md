@@ -1,4 +1,4 @@
-# Generous Thinking
+## Generous Thinking
 ---
 ### Sustainability, Solidarity, and the Common Good
 ---

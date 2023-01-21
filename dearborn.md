@@ -1,4 +1,4 @@
-# Generous Thinking
+## Generous Thinking
 ---
 ### A Radical Approach to Saving the University
 ---
