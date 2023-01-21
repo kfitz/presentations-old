@@ -1,6 +1,6 @@
 ## Higher Education as a Social Good
 ---
-<br /><smaller>Kathleen Fitzpatrick // @kfitz // kfitz@msu.edu</smaller><br /><br />
+<br /><smaller>Kathleen Fitzpatrick // @kfitz // kfitz@msu.edu</smaller><br />
 <small>http://kfitz.info/presntations/cece.html</small>
 
 Note: Thanks for that introduction, and for having me here today! I'm happy to have the opportunity to talk with you a bit about some of the ideas that originated in *Generous Thinking* and how they might relate to the concerns that you share on the Commission on Economic and Community Engagement.
