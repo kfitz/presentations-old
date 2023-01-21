@@ -1,4 +1,4 @@
-# Generous Education
+## Generous Education
 ---
 ### Critique, Community, Collaboration
 ---

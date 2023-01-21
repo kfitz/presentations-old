@@ -1,4 +1,4 @@
-# Digital Platforms and Possibilities
+## Digital Platforms and Possibilities
 ---
 ### What We've Learned from COVID-19
 ---
