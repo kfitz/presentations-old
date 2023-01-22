@@ -1,4 +1,4 @@
-# The Public University
+## The Public University
 ---
 ### and the Public Good
 ---
