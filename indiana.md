@@ -1,4 +1,4 @@
-# Generous Thinking
+## Generous Thinking
 ---
 ### Toward a More Generous University
 ---
