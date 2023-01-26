@@ -1,4 +1,4 @@
-# Failures of Leadership
+## Failures of Leadership
 ---
 ### Rethinking the University in the United States
 ---
