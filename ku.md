@@ -1,9 +1,9 @@
-# Toward a More Generous University
+## Toward a More Generous University
 ---
 ### (Even in Hard Times)
 ---
 <smaller>Kathleen Fitzpatrick // @kfitz // kfitz@msu.edu</smaller><br />
-<small>http://presentations.kfitz.info/ku.html</small>
+<small>http://kfitz.info/presentations/ku.html</small>
 
 Note: Thanks so much; I'm sorry not to be able to be with you in person today, but I'm delighted to have the opportunity to share some thoughts with you as you start this day of thinking about community-engaged learning and scholarship. A quick note that there's a bit of strong language on my first slide, but it represents a feeling that I think many of us share right now.
 

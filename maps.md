@@ -1,6 +1,6 @@
-# Engaged Leadership
+## Engaged Leadership
 ---
-## in Disengaged Times
+### in Disengaged Times
 ---
 <smaller>Kathleen Fitzpatrick // @kfitz // kfitz@msu.edu</smaller><br />
 

@@ -1,7 +1,7 @@
-# Writing in Public
+## Writing in Public
 ---
 <smaller>Kathleen Fitzpatrick // @kfitz // kfitz@msu.edu</smaller><br />
-<small>http://presentations.kfitz.info/mla21.html</small>
+<small>http://kfitz.info/presentations/mla21.html</small>
 
 Note: Thank you. I would like to begin with a collective acknowledgment that Michigan State University occupies the ancestral, traditional, and contemporary Lands of the Anishinaabeg – Three Fires Confederacy of Ojibwe, Odawa, and Potawatomi peoples. In particular, the University resides on Land ceded in the 1819 Treaty of Saginaw. I want to take a moment before I start here today to note that I wrote this talk before yesterday's events, and it's hard not to return to it today and feel the utter narcissism involved in focusing in on my own experiences with writing in public. My hope, though, is that by forging ahead and doing the work we'd originally planned for today, we might be able to open a conversation about the relationship between openness in scholarly communication and the work required to build a more just civil society for us all. So:
 

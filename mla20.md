@@ -1,9 +1,9 @@
-# Generous Argument
+## Generous Argument
 ---
 ### Critique, Community, Pedagogy
 ---
 ##### Kathleen Fitzpatrick // @kfitz // kfitz@msu.edu
-##### http://presentations.kfitz.info/mla20.html
+##### http://kfitz.info/presentations/mla20.html
 
 Note: Ethical questions with respect to pedagogy abound, and more seem to crop up every day. For instance: how do the technologies that claim to make our teaching lives easier -- learning management systems, plagiarism checkers, attendance and attention monitors -- subject our students to non-stop surveillance, and what can we do to counteract such surveillance? How does our departments' reliance on contingent teaching labor -- which, at institutions like mine, frees tenured and tenure-track faculty from undesirable burdens by shifting them onto others -- not only subject our colleagues to untenable working conditions but also leave our students insufficiently connected to the institution in ways that will impact their future prospects, and what can we do to rectify things?
 

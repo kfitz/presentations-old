@@ -1,4 +1,4 @@
-# Building a More Generous Institution
+## Building a More Generous Institution
 ---
 ### Collaboration, Community, Solidarity
 ---
