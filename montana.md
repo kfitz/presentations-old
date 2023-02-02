@@ -1,4 +1,4 @@
-# The Humanities<br /> the Commons
+## The Humanities<br /> the Commons
 ---
 ### and What We Have to Share
 ---

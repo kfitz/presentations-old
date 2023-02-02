@@ -1,4 +1,4 @@
-# Working in Public
+## Working in Public
 ---
 ### Better Structures for Better Institutions
 ---
