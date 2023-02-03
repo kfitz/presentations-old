@@ -1,4 +1,4 @@
-# No Carrots<br />No Sticks
+## No Carrots<br />No Sticks
 ---
 #### Creating a Digital Humanities Consortium on a Shoestring
 ---

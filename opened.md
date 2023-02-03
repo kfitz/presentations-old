@@ -1,4 +1,4 @@
-# Open Education 
+## Open Education 
 ---
 ### Infrastructure for the Common Good
 ---

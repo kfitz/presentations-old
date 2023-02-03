@@ -1,4 +1,4 @@
-# Building a More Generous University
+## Building a More Generous University
 ---
 ### Collaboration, Community, Solidarity
 ---
