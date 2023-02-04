@@ -1,4 +1,4 @@
-# Generous Thinking
+## Generous Thinking
 ---
 ### Working in Public
 ---

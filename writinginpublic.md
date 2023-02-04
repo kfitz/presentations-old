@@ -1,4 +1,4 @@
-# Writing in Public
+## Writing in Public
 ---
 ##### Kathleen Fitzpatrick // @kfitz // kfitz@msu.edu
 

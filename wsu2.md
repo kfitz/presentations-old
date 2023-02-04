@@ -1,6 +1,6 @@
-# Generous Thinking
+## Generous Thinking
 ---
-## Working in Public
+### Working in Public
 ---
 ##### Kathleen Fitzpatrick // @kfitz // kfitz@msu.edu
 
