@@ -1,4 +1,4 @@
-# Scholarly Networks
+## Scholarly Networks
 ---
 ### Possibilities for the Digital Beyond DH
 ---
