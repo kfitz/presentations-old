@@ -1,4 +1,4 @@
-# Generous Thinking
+## Generous Thinking
 ---
 ### and the Future of the University
 ---
