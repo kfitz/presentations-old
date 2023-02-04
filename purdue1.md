@@ -1,4 +1,4 @@
-# Digital, Public, Scholarship
+## Digital, Public, Scholarship
 ---
 ### Sustainable Infrastructure for the Future of the University
 ---
