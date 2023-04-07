@@ -1,4 +1,4 @@
-# Sustainability and Solidarity
+## Sustainability and Solidarity
 ---
 ### Toward a Common Good
 ---

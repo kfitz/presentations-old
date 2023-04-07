@@ -1,4 +1,4 @@
-# Scholarly Communication
+## Scholarly Communication
 ### DH865 -- Spring 2018
 [Kathleen Fitzpatrick](http://kfitz.msu.domains) // [@kfitz](http://twitter.com/kfitz) // [kfitz@msu.edu](mailto:kfitz@msu.edu)
 

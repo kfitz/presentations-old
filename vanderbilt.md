@@ -1,5 +1,5 @@
-# What Matters? 
-# Who Counts?
+## What Matters? 
+## Who Counts?
 ---
 #### Generous Thinking and the Future of the University
 ---

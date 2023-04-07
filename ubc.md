@@ -3,7 +3,7 @@
 ---
 ## Kathleen Fitzpatrick
 <span style="font-size: .6em">@kfitz // kfitz@msu.edu</span><br />
-<vsmall>Slides available at https://presentations.kfitz.info/ubc.html</vsmall>
+<vsmall>Slides available at https://kfitz.info/presentations/ubc.html</vsmall>
 
 Note: Thank you. I would like to begin with a collective acknowledgment that Michigan State University occupies the ancestral, traditional, and contemporary Lands of the Anishinaabeg – Three Fires Confederacy of Ojibwe, Odawa, and Potawatomi peoples. In particular, the University resides on Land ceded in the 1819 Treaty of Saginaw. We recognize, support, and advocate for the sovereignty of Michigan’s twelve federally-recognized Indian nations, for historic Indigenous communities in Michigan, for Indigenous individuals and communities who live here now, and for those who were forcibly removed from their Homelands. By offering this Land Acknowledgement, we affirm Indigenous sovereignty and will work to hold Michigan State University more accountable to the needs of American Indian and Indigenous peoples. //  Before I begin, I want to thank Mary and Susan for inviting me to be part of the Open Scholarship in Practice Week, and to thank Leonora and Heather for all their support; I'm delighted to have this chance to talk a bit about the kinds of work, and the kinds of futures, that making scholarly work more open could make possible.
 

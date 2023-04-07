@@ -1,4 +1,4 @@
-# Generous Thinking
+## Generous Thinking
 ---
 ### and External Partnerships
 ---

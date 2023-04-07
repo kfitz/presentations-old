@@ -1,4 +1,4 @@
-# Generous Thinking
+## Generous Thinking
 ---
 ### and Diversity and Inclusion
 ---
