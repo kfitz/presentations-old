@@ -1,5 +1,5 @@
 
-# We Have Never Been Social:
+## We Have Never Been Social:
 ### Web 2.0 and What Went Wrong
 ---
 <smaller>Kathleen Fitzpatrick // @kfitz@hcommons.social <br />
@@ -87,6 +87,7 @@ Note: Here's what my very first post looks like today. Since 2002 it's been migr
 
 FROM HERE: what I thought I wanted when I started blogging was the instant gratification of publishing, the ability to push my words out to the work; what it turns out that I really wanted, but wasn't aware of, was the possibility of response; comments, links from other bloggers, community
 
+THEN: FB, etc
 
 
 

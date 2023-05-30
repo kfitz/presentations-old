@@ -11,11 +11,10 @@
             "id": "1a4fdb2806630d14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "reclaim.md",
-                "mode": "source",
-                "source": false
+                "file": ".gitignore",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reclaim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reclaim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "reclaim.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,10 +149,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8236aa2ae065ec9f",
+  "active": "1a4fdb2806630d14",
   "lastOpenFiles": [
-    "reclaim.html",
     "reclaim.md",
+    "reclaim.html",
     "newschool.html",
     "index.html",
     "newschool.md",
