@@ -26,5 +26,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Obsidian
+# Other application files
+.nova
 .obsidian
