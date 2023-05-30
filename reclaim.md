@@ -1,5 +1,5 @@
 
-## We Have Never Been Social:
+## We Have Never <br />Been Social:
 ### Web 2.0 and What Went Wrong
 ---
 <smaller>Kathleen Fitzpatrick // @kfitz@hcommons.social <br />
@@ -8,7 +8,7 @@ Reclaim Open // 6 June 2023</smaller>
 Note: Thank you so much -- I'm delighted to be here and to get to talk with all of you today about something that's been bothering me for the better part of fifteen years:
 
 
-# what happened to blogging?
+## what happened to blogging?
 
 Note: What happened to blogging? This is a question that lots of folks have asked, and there are lots of obvious answers circulating out there, but it's a question that I take seriously, and personally. Because blogging made my career. And I mean that literally: insofar as I have anything like a public presence today, it was created by blogging. Everything I have written, every project I've worked on, every job I've held, to one extent or another I owe to my blog. And so I take what's become of it in the years since pretty hard, and I want to spend some time digging into what went wrong, and to think with all of you about whether, and how, the particular magic that blogs created might be recoverable.
 
