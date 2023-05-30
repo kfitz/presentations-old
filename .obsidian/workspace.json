@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "781d03fc793668d7",
+        "id": "54503dd96d77640b",
         "type": "tabs",
         "children": [
           {
-            "id": "580e5f992c09c0b5",
+            "id": "095d5857cb534805",
             "type": "leaf",
             "state": {
-              "type": "html",
-              "state": {
-                "file": "alma.html"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "alma.html",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "alma.html",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "alma.html"
-              }
+              "state": {}
             }
           },
           {
@@ -152,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8aa395b10381b8b",
+  "active": "095d5857cb534805",
   "lastOpenFiles": [
+    "index.html",
     "newschool.md",
     "newschool.html",
+    "alma.html",
     "aiea.html",
     "rutgers.md",
     "review.md",
