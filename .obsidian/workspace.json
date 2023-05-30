@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "7f89ef7a71533edf",
+    "type": "split",
+    "children": [
+      {
+        "id": "781d03fc793668d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "580e5f992c09c0b5",
+            "type": "leaf",
+            "state": {
+              "type": "html",
+              "state": {
+                "file": "alma.html"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7480ea8053d72c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7885cd23f7735696",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8236aa2ae065ec9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6f7bda9e27db626",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df0b07f17121da70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "f5c69d92f35900f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfecd90a2dfde2d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c7395f0b83dc6e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "alma.html",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45f81e3fed093e08",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "alma.html",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df5bd57cc7691cd7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "21fd87958d3e92dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "alma.html"
+              }
+            }
+          },
+          {
+            "id": "d8aa395b10381b8b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d8aa395b10381b8b",
+  "lastOpenFiles": [
+    "newschool.md",
+    "newschool.html",
+    "aiea.html",
+    "rutgers.md",
+    "review.md",
+    "rutgers.html",
+    "review.html"
+  ]
+}
