@@ -25,3 +25,9 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Obsidian
+.obsidian
+
+# macOS
+.DS_Store

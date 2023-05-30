@@ -81,7 +81,11 @@ Note: So I figured out how to get an account with a web hosting service, and how
 
 ![Screenshot of post from Planned Obsolescence](images/plannedobs-new.png)
 
-Note: Here's what my very first post looks like today. Since 2002 it's been migrated from Movable Type to ExpressionEngine to WordPress, and from whoever my first hosting provider was to DreamHost to Reclaim, and most recently from WordPress on Reclaim to a Jekyll-based static site hosted on GitHub. 
+Note: Here's what my very first post looks like today. Since 2002 it's been migrated from Movable Type to ExpressionEngine to WordPress, from whoever my first hosting provider was to DreamHost to Reclaim, from plannedobsolescence.net to kfitz.info, and most recently from WordPress on Reclaim to a Jekyll-based static site hosted on GitHub. And yet, despite all of the web's evanescence, and despite my certainty that I was working in a form that was productive of obsolescence, this content remains -- remains accessible, remains available, remains alive.
+
+
+
+FROM HERE: what I thought I wanted when I started blogging was the instant gratification of publishing, the ability to push my words out to the work; what it turns out that I really wanted, but wasn't aware of, was the possibility of response; comments, links from other bloggers, community
 
 
 

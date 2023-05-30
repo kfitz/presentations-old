@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "467a35b93af45db6",
+            "id": "1a4fdb2806630d14",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1a4fdb2806630d14",
-            "type": "leaf",
-            "state": {
-              "type": "html",
-              "state": {
-                "file": "reclaim.html"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reclaim.html",
+                "file": "reclaim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reclaim.html",
+                "file": "reclaim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reclaim.html"
+                "file": "reclaim.md"
               }
             }
           },
@@ -165,10 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a4fdb2806630d14",
+  "active": "8236aa2ae065ec9f",
   "lastOpenFiles": [
-    "reclaim.md",
     "reclaim.html",
+    "reclaim.md",
     "newschool.html",
     "index.html",
     "newschool.md",
