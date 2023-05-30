@@ -8,14 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "095d5857cb534805",
+            "id": "467a35b93af45db6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "reclaim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a4fdb2806630d14",
+            "type": "leaf",
+            "state": {
+              "type": "html",
+              "state": {
+                "file": "reclaim.html"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 212.5
   },
   "right": {
     "id": "f5c69d92f35900f8",
@@ -81,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "reclaim.html",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "reclaim.html",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "reclaim.html"
+              }
             }
           },
           {
@@ -146,11 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "095d5857cb534805",
+  "active": "1a4fdb2806630d14",
   "lastOpenFiles": [
+    "reclaim.md",
+    "reclaim.html",
+    "newschool.html",
     "index.html",
     "newschool.md",
-    "newschool.html",
     "alma.html",
     "aiea.html",
     "rutgers.md",
