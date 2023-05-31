@@ -84,19 +84,41 @@ Note: So I figured out how to get an account with a web hosting service, and how
 
 Note: Here's what my very first post looks like today. Since 2002 it's been migrated from Movable Type to ExpressionEngine to WordPress, from whoever my first hosting provider was to DreamHost to Reclaim, from plannedobsolescence.net to kfitz.info, and most recently from WordPress on Reclaim to a Jekyll-based static site hosted on GitHub. And yet, despite all of the web's evanescence, and despite my certainty that I was working in a form that was productive of obsolescence, this content remains -- remains accessible, remains available, remains alive.
 
+When I started blogging, what I thought I was after was the instant gratification of publishing, the ability to push my words out to the world. All of the other thousands of words I'd produced were either stuck on my hard drive waiting for a press to agree to consider them, or languishing in journals that I wasn't sure anyone would ever read. The whole exercise of scholarly publishing as we knew it felt a whole lot like shouting down a well. But this! This blog thing would allow me to take charge of my own process, to push stuff out when I was ready.
 
 
-FROM HERE: what I thought I wanted when I started blogging was the instant gratification of publishing, the ability to push my words out to the work; what it turns out that I really wanted, but wasn't aware of, was the possibility of response; comments, links from other bloggers, community
+# conversation
 
-THEN: FB, etc
+Note: It turns out, though, that what I really wanted, deep down underneath the sense of being stifled, was the possibility of response. When you shout down the traditional publishing well, the only answer you really get is your own voice echoing back; the possibility that someone will read your article and cite it in their own, and then have that reply pushed through the publishing process is so slow as to have lost all traces of the conversational. The early world of blogging, however, was all about conversation. I'd post something, and someone would read it and leave a comment! Or, they'd read it and write a post in response, and link to mine in the process. There was an entire web of conversations taking place in the blogoverse, and through that web I found my way into a cluster of early literary and media studies bloggers, all of whom were writing and thinking together, lifting one another's ideas up and making them better along the way.
+
+
+# community
+
+Note: This cluster of bloggers formed a community, one that I wasn't even really aware I needed back in my remote small liberal arts college bubble. That bubble was an awfully comfortable one, and yet I had no real collaborators inside it. Connecting online with folks who were pursuing questions related to my own produced a kind of engagement that was hard to sustain alone. And blogging turned out to be enormously productive for me: not only did the relationships built in that community evolve into several of the closest friendships I have today, but the writing I did on the blog led to every single idea I've had since, and every bit of recognition that my work has received.
+
+Blogging in 2003 was the bomb, is what I'm trying to say.
+
+
+# but
+
+Note: But. Alongside the creative ferment being produced by blogs in 2003, there were a few other developments happening. 2003 saw the launch of Friendster and MySpace. And then -- fairly quietly, at first -- this thing called FaceMash. These platforms billed themselves, to different extents, as ways to engage with your social networks online, which doesn't sound all *that* different from what the blog network I participated in did. Except, of course, that these were *platforms*, in which the accumulation of connections rather than the building of relationships became the point. By the time FaceMash turned into Facebook and started moving beyond Harvard's gates, "social networks" had become spaces for the accumulation of both social capital and venture capital. They were about YOU YOU YOU, and not at all about who we were together.
+
+
+# twitter
+
+Note: Twitter was in this sense just the final nail in the coffin, but I hold fast to the conviction that Twitter is what ultimately did blogging as I knew it in. Not just because it was so much quicker to spit out 140 characters than it was to write even a moderately considered blog post, and not just because that sense of immediate gratification was coupled with knowing *exactly how many people* were following you, and thus (at least theoretically) how much of an "impact" your post about what your dog ate for breakfast was going to have, but also because one of its real benefits -- following people who posted links to cool stuff, including your moderately considered blog post -- stole the conversation away from blogs themselves. If someone had a response to the blog post you linked to on Twitter, they responded *on Twitter*, and that conversation rarely had a chance to develop in the ways it had in the comments, or in linked posts from other blogs. And worse, the fact that that conversation was taking place might not even be something that the original post author was aware of, or got to participate in.
+
+
+FROM HERE: 
+- what's so antisocial about social media (mostly a radical misunderstanding of sociality itself)
+- a model of sociality that is about the individuated self and its accumulated connections, rather than about multi-directional relationship building through ongoing conversation
+- turns conversation into a performance of conversation, and self-representation into a performance of self
+- and via the algorithm, does so inside a black box that we cannot control
+- here Martin Eve on the failures of "distributed digital governance systems of the blockchain" etc
+- It's not just a matter of centralization/decentralization; it's about ensuring that the social is not subjugated to the technical
 
 
 
-I’d been blogging for about a year, using MovableType, and had found my way into a group of early literary and media studies bloggers, all of whom were writing and thinking together in engaging and productive ways, lifting one another’s ideas up and making them better along the way. 
-
-But alongside those creative spaces on the web were a few other developments: 2003 saw the launch of Friendster and MySpace, and then – fairly quietly, at first – this thing called FaceMash. And with them came the platformization of ostensibly social networking, in which the accumulation of connections (and, not incidentally, venture capital) rather than the building of relationships became the point. By the time FaceMash turned into Facebook and started moving beyond Harvard’s gates, the writing was on the wall (so to speak) for thoughtful sociality on the web; Twitter was only the final nail in the coffin.
-
-This talk will look at the _web that was_ both for what it could have been and for what it turned into, in order to think through where we are today and the possibilities that we might consider in working toward the web of tomorrow.
 
 
 ---
