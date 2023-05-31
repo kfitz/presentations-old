@@ -50,7 +50,7 @@ Note: That tiny text reads "Q: What benefit is Amazon.com getting from this? A: 
 Note: Sigh. In any case. By the time Tim O'Reilly and John Battelle took the stage for the opening keynote at that first Web 2.0 Summit, they were ready to outline a vision for the future of "the web as platform," starring a lot of folks looking to build "truly great companies" on top of it. And it's thanks to those folks, and their interest in platformization, 
 
 
-![Time Magazine cover](images/time2006.png)<!-- .element height="70%" width="70%" -->
+![Time Magazine cover](images/time2006.png)<!-- .element height="60%" width="60%" -->
 
 Note: that we'd find ourselves just two short years later honored as *Time* Magazine's Person of the Year, being told that we control the Information Age! The unbridled enthusiasm of the cover carries over into the story by Lev Grossman, though it's possible to see in the story an early hint of the forking paths that Web 2.0 presented. On the one hand, Grossman notes that the explosive growth in active, creative participation in online spaces was "a story about community and collaboration on a scale never seen before." On the other hand, the extent to which we -- you and I -- really control the world being built is uncertain, as Grossman hints at the importance of those building the platforms on which all this engagement was taking place, making it possible for "millions of minds that would otherwise have drowned in obscurity \[to] get backhauled into the global intellectual economy."
 
@@ -108,7 +108,7 @@ Note: But. Alongside the creative ferment being produced by blogs in 2003, there
 Note: Twitter was in this sense just another nail in the coffin, but I hold fast to the conviction that Twitter is what ultimately did blogging as I knew it in. Not just because it was so much quicker to spit out 140 characters than it was to write even a moderately considered blog post, and not just because that heightened sense of immediate gratification was coupled with knowing *exactly how many people* were following you, and thus (at least theoretically) how much of an "impact" your post about what your dog ate for breakfast was going to have, but also because one of its real benefits -- following people who posted links to cool stuff, including to your moderately considered blog post -- resulted in stealing the conversation away from blogs themselves. If someone had a response to the blog post you linked to on Twitter, they responded *on Twitter*, and that conversation rarely had a chance to develop in the ways it had in the comments, or in linked posts from other blogs. And worse, the fact that that conversation was taking place might not even be something that the original post author was aware of, or got to participate in.
 
 
-![IndieWeb](images/indieweb.png)
+![IndieWeb](images/indieweb.png)<!-- .element height="80%" width="80%" -->
 
 Note: Of course, folks wrote WordPress plugins that attempted to repair that conversational leak, by aggregating tweets and republishing them as comments on the post to which they responded, not least the folks affiliated with the IndieWeb community, who argued for personally-owned alternatives to corporate platforms, ensuring that content you produce remained under your own control, published and connected where and when you wanted. While I'm a huge supporter of IndieWeb and its goals, I worry that focusing on *ownership per se* misses a part of what went wrong. The problem is not just that that platforms into which we poured our time and energy, our creativity, our representations of ourselves and our relationships with others -- it's not just that these platforms were corporate-owned. It's not just that those corporations had VCs to whom they had to provide quantitative proof of success. And it's not just that our relationships thus got caught up in the Silicon Valley cash nexus -- though all of that is demonstrably bad, too.
 
@@ -121,12 +121,6 @@ FROM HERE:
 - and via the algorithm, does so inside a black box that we cannot control
 - here Martin Eve on the failures of "distributed digital governance systems of the blockchain" etc
 - It's not just a matter of centralization/decentralization; it's about ensuring that the social is not subjugated to the technical
-
-
-
-
-
----
 
 on failures of sociality, see Eve, *Paper Thin*, in which he describes the distributed digital governance systems of the blockchain, NFTs, and more as evidence that their developers and adherents "would like to build... a technical system of law enforcement that eradicates all sociality from the implementation of, say, property ownership" (170). Similarly, the platformization of social networks attempted to supplant real sociality with algorithmic connections, resulting in similar disasters. This "subjugation of the social to the technical" (172) is characteristic...
 
