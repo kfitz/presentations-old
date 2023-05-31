@@ -50,8 +50,7 @@ Note: That tiny text reads "Q: What benefit is Amazon.com getting from this? A: 
 Note: Sigh. In any case. By the time Tim O'Reilly and John Battelle took the stage for the opening keynote at that first Web 2.0 Summit, they were ready to outline a vision for the future of "the web as platform," starring a lot of folks looking to build "truly great companies" on top of it. And it's thanks to those folks, and their interest in platformization, 
 
 
-![Time Magazine cover](images/time2006.png)
-<!-- .element height="80%" width="80%" -->
+![Time Magazine cover](images/time2006.png)<!-- .element height="70%" width="70%" -->
 
 Note: that we'd find ourselves just two short years later honored as *Time* Magazine's Person of the Year, being told that we control the Information Age! The unbridled enthusiasm of the cover carries over into the story by Lev Grossman, though it's possible to see in the story an early hint of the forking paths that Web 2.0 presented. On the one hand, Grossman notes that the explosive growth in active, creative participation in online spaces was "a story about community and collaboration on a scale never seen before." On the other hand, the extent to which we -- you and I -- really control the world being built is uncertain, as Grossman hints at the importance of those building the platforms on which all this engagement was taking place, making it possible for "millions of minds that would otherwise have drowned in obscurity \[to] get backhauled into the global intellectual economy."
 
@@ -70,7 +69,7 @@ Note: As for me, I first heard the word "blog" in a workshop at UCLA during the 
 But the idea got stuck somewhere in the back of my head, and a year later, in June 2002, it resurfaced. I had just finished revising the manuscript for that first book, and I knew that it was probably going to be a year or two before anyone would be able to read it.
 
 
-# ahahahahahhahahahahahahaa
+# ahahahhahahahaahahahahahaahahha
 
 Note: It turned out to be five years, which I don't know what I'd have done if I'd have known that at the time. But even given the deeply naive view of the scholarly publishing process that I was still clinging to at the time, I was antsy. I had Things to Say. And I was tired of waiting for my stuff to find its way to an audience. And one afternoon I was procrastinating by searching online for some old friends from grad school and I ran into this website that one of them had! It was one of those blog things! And it was funny, and smart, and people were reading it. And I knew they were reading it because they were responding to posts in the comments. And I thought, "oh man, that's *it*."
 
@@ -101,12 +100,18 @@ Blogging in 2003 was the bomb, is what I'm trying to say.
 
 # but
 
-Note: But. Alongside the creative ferment being produced by blogs in 2003, there were a few other developments happening. 2003 saw the launch of Friendster and MySpace. And then -- fairly quietly, at first -- this thing called FaceMash. These platforms billed themselves, to different extents, as ways to engage with your social networks online, which doesn't sound all *that* different from what the blog network I participated in did. Except, of course, that these were *platforms*, in which the accumulation of connections rather than the building of relationships became the point. By the time FaceMash turned into Facebook and started moving beyond Harvard's gates, "social networks" had become spaces for the accumulation of both social capital and venture capital. They were about YOU YOU YOU, and not at all about who we were together.
+Note: But. Alongside the creative ferment being produced by blogs in 2003, there were a few other developments happening. 2003 saw the launch of Friendster and MySpace. And then -- fairly quietly, at first -- this thing called FaceMash. These platforms billed themselves, to different extents, as ways to engage with your social networks online, which doesn't sound all *that* different from what the blog network I participated in did. Except, of course, that these were *platforms*, in which the accumulation of connections and competition for influence rather than the building of relationships became the point. By the time FaceMash turned into Facebook and started moving beyond Harvard's gates, "social networks" had become spaces for the accumulation of both social capital and venture capital. They were about YOU YOU YOU, and not at all about who we were together.
 
 
 # twitter
 
-Note: Twitter was in this sense just the final nail in the coffin, but I hold fast to the conviction that Twitter is what ultimately did blogging as I knew it in. Not just because it was so much quicker to spit out 140 characters than it was to write even a moderately considered blog post, and not just because that sense of immediate gratification was coupled with knowing *exactly how many people* were following you, and thus (at least theoretically) how much of an "impact" your post about what your dog ate for breakfast was going to have, but also because one of its real benefits -- following people who posted links to cool stuff, including your moderately considered blog post -- stole the conversation away from blogs themselves. If someone had a response to the blog post you linked to on Twitter, they responded *on Twitter*, and that conversation rarely had a chance to develop in the ways it had in the comments, or in linked posts from other blogs. And worse, the fact that that conversation was taking place might not even be something that the original post author was aware of, or got to participate in.
+Note: Twitter was in this sense just another nail in the coffin, but I hold fast to the conviction that Twitter is what ultimately did blogging as I knew it in. Not just because it was so much quicker to spit out 140 characters than it was to write even a moderately considered blog post, and not just because that heightened sense of immediate gratification was coupled with knowing *exactly how many people* were following you, and thus (at least theoretically) how much of an "impact" your post about what your dog ate for breakfast was going to have, but also because one of its real benefits -- following people who posted links to cool stuff, including to your moderately considered blog post -- resulted in stealing the conversation away from blogs themselves. If someone had a response to the blog post you linked to on Twitter, they responded *on Twitter*, and that conversation rarely had a chance to develop in the ways it had in the comments, or in linked posts from other blogs. And worse, the fact that that conversation was taking place might not even be something that the original post author was aware of, or got to participate in.
+
+
+![IndieWeb](images/indieweb.png)
+
+Note: Of course, folks wrote WordPress plugins that attempted to repair that conversational leak, by aggregating tweets and republishing them as comments on the post to which they responded, not least the folks affiliated with the IndieWeb community, who argued for personally-owned alternatives to corporate platforms, ensuring that content you produce remained under your own control, published and connected where and when you wanted. While I'm a huge supporter of IndieWeb and its goals, I worry that focusing on *ownership per se* misses a part of what went wrong. The problem is not just that that platforms into which we poured our time and energy, our creativity, our representations of ourselves and our relationships with others -- it's not just that these platforms were corporate-owned. It's not just that those corporations had VCs to whom they had to provide quantitative proof of success. And it's not just that our relationships thus got caught up in the Silicon Valley cash nexus -- though all of that is demonstrably bad, too.
+
 
 
 FROM HERE: 
