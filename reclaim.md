@@ -69,7 +69,7 @@ Note: As for me, I first heard the word "blog" in a workshop at UCLA during the 
 But the idea got stuck somewhere in the back of my head, and a year later, in June 2002, it resurfaced. I had just finished revising the manuscript for that first book, and I knew that it was probably going to be a year or two before anyone would be able to read it.
 
 
-# ahahahhahahahaahahahahahaahahha
+# ahahahhahahahaahaahahahahaahahha
 
 Note: It turned out to be five years, which I don't know what I'd have done if I'd have known that at the time. But even given the deeply naive view of the scholarly publishing process that I was still clinging to at the time, I was antsy. I had Things to Say. And I was tired of waiting for my stuff to find its way to an audience. And one afternoon I was procrastinating by searching online for some old friends from grad school and I ran into this website that one of them had! It was one of those blog things! And it was funny, and smart, and people were reading it. And I knew they were reading it because they were responding to posts in the comments. And I thought, "oh man, that's *it*."
 
