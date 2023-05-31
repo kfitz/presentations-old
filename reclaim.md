@@ -50,7 +50,7 @@ Note: That tiny text reads "Q: What benefit is Amazon.com getting from this? A: 
 Note: Sigh. In any case. By the time Tim O'Reilly and John Battelle took the stage for the opening keynote at that first Web 2.0 Summit, they were ready to outline a vision for the future of "the web as platform," starring a lot of folks looking to build "truly great companies" on top of it. And it's thanks to those folks, and their interest in platformization, 
 
 
-![Time Magazine cover](images/time2006.png)<!-- .element height="60%" width="60%" -->
+![Time Magazine cover](images/time2006.png)<!-- .element height="50%" width="50%" -->
 
 Note: that we'd find ourselves just two short years later honored as *Time* Magazine's Person of the Year, being told that we control the Information Age! The unbridled enthusiasm of the cover carries over into the story by Lev Grossman, though it's possible to see in the story an early hint of the forking paths that Web 2.0 presented. On the one hand, Grossman notes that the explosive growth in active, creative participation in online spaces was "a story about community and collaboration on a scale never seen before." On the other hand, the extent to which we -- you and I -- really control the world being built is uncertain, as Grossman hints at the importance of those building the platforms on which all this engagement was taking place, making it possible for "millions of minds that would otherwise have drowned in obscurity \[to] get backhauled into the global intellectual economy."
 
@@ -116,9 +116,10 @@ Note: Of course, folks wrote WordPress plugins that attempted to repair that con
 
 FROM HERE: 
 - what's so antisocial about social media (mostly a radical misunderstanding of sociality itself)
+	- Siva Vaidhyanathan: "the hubris of good intentions, a missionary spirit, and an ideology that sees computer code as the universal solvent for all human problems"
 - a model of sociality that is about the individuated self and its accumulated connections, rather than about multi-directional relationship building through ongoing conversation
 - turns conversation into a performance of conversation, and self-representation into a performance of self
-- and via the algorithm, does so inside a black box that we cannot control
+- and via the algorithm, does so inside a black box that we not only cannot control, but that produces the greatest rewards for the worst behavior
 - here Martin Eve on the failures of "distributed digital governance systems of the blockchain" etc
 - It's not just a matter of centralization/decentralization; it's about ensuring that the social is not subjugated to the technical
 
