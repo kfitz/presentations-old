@@ -113,15 +113,49 @@ Note: Twitter was in this sense just another nail in the coffin, but I hold fast
 Note: Of course, folks wrote WordPress plugins that attempted to repair that conversational leak, by aggregating tweets and republishing them as comments on the post to which they responded, not least the folks affiliated with the IndieWeb community, who argued for personally-owned alternatives to corporate platforms, ensuring that content you produce remained under your own control, published and connected where and when you wanted. While I'm a huge supporter of IndieWeb and its goals, I worry that focusing on *ownership per se* misses a part of what went wrong. The problem is not just that that platforms into which we poured our time and energy, our creativity, our representations of ourselves and our relationships with others -- it's not just that these platforms were corporate-owned. It's not just that those corporations had VCs to whom they had to provide quantitative proof of success. And it's not just that our relationships thus got caught up in the Silicon Valley cash nexus -- though all of that is demonstrably bad, too.
 
 
+# antisocial
+
+Note: What's so antisocial about social media, rather, is mostly a radical misunderstanding of sociality itself.
+
+
+> "It's the story of the hubris of good intentions, a missionary spirit, and an ideology that sees computer code as the universal solvent for all human problems." (Vaidhyanathan 3)
+
+Note: Siva Vaidhyanathan has described the history of Facebook by saying that "It's the story of the hubris of good intentions, a missionary spirit, and an ideology that sees computer code as the universal solvent for all human problems." That ideology assumes, among other things, that "society" can be represented coherently through the network graph of a highly individuated self and its accumulated connections -- it's nodes and edges and that's about it. The failure to understand sociality as about human relationships and the complex, contingent ways that individuals with different histories, cultures, languages, and experiences build relationships through ongoing conversation and endless negotiation results in, at best, a deeply impoverished network. 
+
+
+> "the subjugation of the social to the technical" (Eve, forthcoming)
+
+Note: Martin Eve, in a forthcoming project that I was lucky enough to read, thinks about this mode of platformization -- particularly with respect to the ostensible governance processes produced by the blockchain -- as "the subjugation of the social to the technical," or in fact the desire to eliminate the contingencies and complexities of the social and replace them wholesale with the technical. This desire and the degree to which it has manifested in our social media platforms is what leads me to argue that 
+
+
+# social media has never been social
+
+Note: social media has never been social, that it has instead been whole geared toward the individual and the wants and desires of that individual as understood, processed by, and catered to through technology. Even more, the goal in that technical service to the individual has likewise never been social, no matter how much of Zuckerberg's rhetoric appeals to the ideal of global connection; the connectedness that these platforms is able to produce is between YOU, a pair of eyeballs, and the algorithm, which feeds you what it thinks you most want to see, in order to keep you sutured to the network itself.
+
+
+how does this come about?
+- an emphasis on the individual as a performance of individuality
+- an ability to track all your interactions in order to figure out what you "like," for a value of "like" that mostly means stuff that will keep you interacting
+- a focus on using that knowledge to keep feeding you stuff that will prolong the connection
+
+where are the flaws?
+- you are not your tweets, or your facebook posts
+- online interactions are nearly always kneejerk reactions, not considered responses
+- the things that will keep you reacting are likewise the extremes
+
+
+
+
 
 FROM HERE: 
-- what's so antisocial about social media (mostly a radical misunderstanding of sociality itself)
-	- Siva Vaidhyanathan: "the hubris of good intentions, a missionary spirit, and an ideology that sees computer code as the universal solvent for all human problems"
 - a model of sociality that is about the individuated self and its accumulated connections, rather than about multi-directional relationship building through ongoing conversation
 - turns conversation into a performance of conversation, and self-representation into a performance of self
 - and via the algorithm, does so inside a black box that we not only cannot control, but that produces the greatest rewards for the worst behavior
 - here Martin Eve on the failures of "distributed digital governance systems of the blockchain" etc
 - It's not just a matter of centralization/decentralization; it's about ensuring that the social is not subjugated to the technical
+
+“Facebook is explicitly engineered to promote items that generate strong reactions….Facebook measures engagement by the number of clicks, “likes,” shares, and comments. This design feature—or flaw, if you care about the quality of knowledge and debate—ensures that the most inflammatory material will travel the farthest and the fastest.” (Vaid 6) — tie to point about the algorithm: the point is to keep you glued to the interface, to keep the dopamine hits coming, not to create a sense of connection or responsibility to the actual humans involved
+- In a footnote: “I will capitalize “Friend” throughout this book to distinguish the Facebook-mediated relationship from actual friendship.” (Vaid 7) — we have to make this distinction, in no small part because of the performative aspect to self-representation on the platform, as well as the ways the site feeds us what we want to see
 
 on failures of sociality, see Eve, *Paper Thin*, in which he describes the distributed digital governance systems of the blockchain, NFTs, and more as evidence that their developers and adherents "would like to build... a technical system of law enforcement that eradicates all sociality from the implementation of, say, property ownership" (170). Similarly, the platformization of social networks attempted to supplant real sociality with algorithmic connections, resulting in similar disasters. This "subjugation of the social to the technical" (172) is characteristic...
 
