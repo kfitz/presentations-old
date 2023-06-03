@@ -150,3 +150,10 @@ Note: There are so many things wrong with this that it's hard to know where to b
 Note: **READ SLIDE.** The point is to keep you glued to the interface, to keep the dopamine hits coming. It is not only not engineered to create a sense of social connection or responsibility to the actually existing humans on the other side of those interactions -- it in fact functions to break any such sense of sociality, except insofar as it confirms our own performances.
 
 
+
+
+## thank you
+---
+<smaller>Kathleen Fitzpatrick // @kfitz@hcommons.social</smaller>
+
+Note: Many thanks.
