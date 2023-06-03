@@ -20,7 +20,7 @@ Note: I'm going to begin this inquest by jumping 20 years backward, to 2003. I w
 Just to paint the scene a bit: in 2003, LiveJournal and Blogger had each been around for about four years, and of course GeoCities for another five beyond that. These were a somewhat messy and anarchic set of tools and spaces that allowed users to build out forms of self-representation and community connection, bringing the ethos that had long been found in discussion spaces like USENET, IRC, and a range of MUDs and MOOs to the graphical windows of the web. LiveJournal and Blogger were also the leading edges of the transformation of the world-wide web from a relatively static service, presenting pages that lived on servers requiring both access and a certain degree of expertise in order to manage on the back end. Instead, these new applications embodied the principles of the "read-write web," which allowed users to interact with and add to web content via the front end.
 
 
-# "web 2.0"
+# “web 2.0”
 
 Note: That "read-write web" was one feature of the complex of web-based applications that was in the early years of the 21st century turning the browser from a means of presenting static web pages into something far more dynamic. That more dynamic thing is part of what many of us originally understood the term "web 2.0" to mean. Credit for coining the term is usually given to Tim O'Reilly, who in 2004 hosted the first "Web 2.0 Summit" intended to explore what the web was becoming as it took flight from the ashes of the dot-com bust. Wikipedia, however, attributes the first use of the term "web 2.0" to Darcy DiNucci, in a 1999 article entitled "Fragmented Future." 
 
@@ -62,7 +62,7 @@ I've gotten a bit ahead of the story I want to tell today, which is in large par
 Note: 2003. As I noted, LiveJournal and Blogger had been actively feeding the read/write web for a few years, as had several other early blogging packages. Around that time, Matt Mullenweg and Mike Little decided to take the software they'd been using, b2/cafelog, which was about to be discontinued, and build something on top of it, releasing the first version of what they decided to call "WordPress" on May 27, 2003.
 
 
-# "blog"
+# “blog”
 
 Note: As for me, I first heard the word "blog" in a workshop at UCLA during the summer of 2001, when Jenny Bay, then an early career scholar of digital rhetoric, presented some early research questions she was exploring about the development of forms of online communication being popularized by folks like Jason Kottke. I remember being a bit puzzled at first, not just about how you'd go about building a website on which you could post regular updates about things you found of interest, but also, to be frank, about why you'd do so. I didn't see the appeal, at least not at first. 
 
@@ -118,12 +118,12 @@ Note: Of course, folks wrote WordPress plugins that attempted to repair that con
 Note: What's so antisocial about social media, rather, is mostly a radical misunderstanding of sociality itself.
 
 
-> "It's the story of the hubris of good intentions, a missionary spirit, and an ideology that sees computer code as the universal solvent for all human problems." (Vaidhyanathan 3)
+> “It’s the story of the hubris of good intentions, a missionary spirit, and an ideology that sees computer code as the universal solvent for all human problems.” (Vaidhyanathan 3)
 
 Note: Siva Vaidhyanathan has described the history of Facebook by saying that "It's the story of the hubris of good intentions, a missionary spirit, and an ideology that sees computer code as the universal solvent for all human problems." That ideology assumes, among other things, that "society" can be represented coherently through the network graph of a highly individuated self and its accumulated connections -- it's nodes and edges and that's about it. The failure to understand sociality as about human relationships and the complex, contingent ways that individuals with different histories, cultures, languages, and experiences build relationships through ongoing conversation and endless negotiation results in, at best, a deeply impoverished network. 
 
 
-> "the subjugation of the social to the technical" (Eve, forthcoming)
+> “the subjugation of the social to the technical“ (Eve, forthcoming)
 
 Note: Martin Eve, in a forthcoming project that I was lucky enough to get a sneak preview of, thinks about this mode of platformization -- particularly with respect to the governance processes constructed through the blockchain and epitomized in the cryptocurrencies it supports -- as "the subjugation of the social to the technical." These technologies in fact represent the desire to eliminate the contingencies and complexities of the social and replace them wholesale with the technical. This desire and the degree to which it has manifested in our social media platforms is what leads me to argue that 
 
@@ -145,7 +145,7 @@ Note: So, to dig in just a bit on the elements of the antisocial that makes soci
 Note: There are so many things wrong with this that it's hard to know where to begin. When we are reduced to performing selfhood, when our conversations get turned into performances of connection, our online interactions far too often turn into knee-jerk reactions rather than considered responses. And on some level, this is what the platform wants. Whatever the algorithm behind social media platforms actually looks like when you dig into its code, it serves to produce the greatest rewards for the worst behavior, elevating posts that will produce reactions and thus feeding our worst impulses. As Siva Vaidhyanathan argues,
 
 
-> “Facebook is explicitly engineered to promote items that generate strong reactions….Facebook measures engagement by the number of clicks, “likes,” shares, and comments. This design feature -- or flaw, if you care about the quality of knowledge and debate -- ensures that the most inflammatory material will travel the farthest and the fastest.” (Vaidyanathan 6)
+> “Facebook is explicitly engineered to promote items that generate strong reactions…. Facebook measures engagement by the number of clicks, ‘likes,‘’ shares, and comments. This design feature – or flaw, if you care about the quality of knowledge and debate – ensures that the most inflammatory material will travel the farthest and the fastest.” (Vaidyanathan 6)
 
 Note: **READ SLIDE.** The point is to keep you glued to the interface, to keep the dopamine hits coming. It is not only not engineered to create a sense of social connection or responsibility to the actually existing humans on the other side of those interactions -- it in fact functions to break any such sense of sociality, except insofar as it confirms our own performances.
 
