@@ -2,7 +2,7 @@
 ## We Have Never <br />Been Social:
 ### Web 2.0 and What Went Wrong
 ---
-<smaller>Kathleen Fitzpatrick // @kfitz@hcommons.social <br />
+<smaller>Kathleen Fitzpatrick // hcommons.social/@kfitz <br />
 Reclaim Open // 6 June 2023</smaller>
 
 Note: Thank you so much -- I'm delighted to be here and to get to talk with all of you today about something that's been bothering me for the better part of fifteen years:
@@ -150,10 +150,23 @@ Note: There are so many things wrong with this that it's hard to know where to b
 Note: **READ SLIDE.** The point is to keep you glued to the interface, to keep the dopamine hits coming. It is not only not engineered to create a sense of social connection or responsibility to the actually existing humans on the other side of those interactions -- it in fact functions to break any such sense of sociality, except insofar as it confirms our own performances.
 
 
+# grrr
+
+Note: I could go on about this for quite a while, but I think I’ve said enough to convey the depth of the grudge that I bear toward Twitter and Facebook and all of the other social media platforms that together undermined what my small community of bloggers was building together. I have to acknowledge a couple of things here, though. Social media has been enormously important for people who are marginalized, people who are isolated, people who cannot safely be themselves in their families and communities. Many, many people have found support and comfort, and have developed real meaningful relationships that began on these platforms. And I have been able to keep in touch with old friends I’d never have seen otherwise. I have been able to see my nieces and nephews grow up. And social media networks have the potential to provide millions and millions of users with access to news and information. Of course, how good that news and information is, and how much I really get to know about those old friends, and how my nieces and nephews might feel about the pictures their parents are sharing, remains a real question.
+
+The other thing I have to acknowledge, however, as plainly as I can, that I take some responsibility for what social media did to my blogging, and the community I was part of. I mean, I fell for it! I let the immediacy and the reach and the metrics turn my head and pull me away from the work I was doing. And I let it happen in part because, to be frank,
+
+
+# work
+
+Note: the blog was hard work. It required a lot of time and attention to think through posts and make them worth sharing. It required real engagement with what other writers were posting, and a real willingness to think through their ideas and contribute something to the conversation. Blogging required real work – in the same way that real sociality requires real work – and however immediate blogging’s gratification seemed in comparison with writing (and god forbid trying to publish) an academic book, it had nothing on the nonstop dopamine fountain that was Twitter.
+
+So here’s what I want to do. I want to go back and see if we can recover the best of 2003, and infuse it with what we’ve learned in the two decades since.
+
 
 
 ## thank you
 ---
-<smaller>Kathleen Fitzpatrick // @kfitz@hcommons.social</smaller>
+<smaller>Kathleen Fitzpatrick // hcommons.social/@kfitz</smaller>
 
 Note: Many thanks.
