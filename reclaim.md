@@ -125,42 +125,28 @@ Note: Siva Vaidhyanathan has described the history of Facebook by saying that "I
 
 > "the subjugation of the social to the technical" (Eve, forthcoming)
 
-Note: Martin Eve, in a forthcoming project that I was lucky enough to read, thinks about this mode of platformization -- particularly with respect to the ostensible governance processes produced by the blockchain -- as "the subjugation of the social to the technical," or in fact the desire to eliminate the contingencies and complexities of the social and replace them wholesale with the technical. This desire and the degree to which it has manifested in our social media platforms is what leads me to argue that 
+Note: Martin Eve, in a forthcoming project that I was lucky enough to get a sneak preview of, thinks about this mode of platformization -- particularly with respect to the governance processes constructed through the blockchain and epitomized in the cryptocurrencies it supports -- as "the subjugation of the social to the technical." These technologies in fact represent the desire to eliminate the contingencies and complexities of the social and replace them wholesale with the technical. This desire and the degree to which it has manifested in our social media platforms is what leads me to argue that 
 
 
 # social media has never been social
 
-Note: social media has never been social, that it has instead been whole geared toward the individual and the wants and desires of that individual as understood, processed by, and catered to through technology. Even more, the goal in that technical service to the individual has likewise never been social, no matter how much of Zuckerberg's rhetoric appeals to the ideal of global connection; the connectedness that these platforms is able to produce is between YOU, a pair of eyeballs, and the algorithm, which feeds you what it thinks you most want to see, in order to keep you sutured to the network itself.
+Note: social media has never been social. It's not that things have recently gone wrong, with bad new overlords or dangerous political shenanigans. Everything that's wrong has been wrong from the start. "Social media" as we have known it has always been wholly geared toward the individual and the wants and desires of that individual as understood, processed by, and catered to through technology. Even more, the goal in that technical service to the individual has likewise never been social, no matter how much Silicon Valley rhetoric celebrates the ideal of global connection; the connectedness that these platforms is able to produce is between YOU, a pair of eyeballs, and the algorithm, which feeds you what it thinks you most want to see, in order to keep you sutured to the network itself.
 
 
-how does this come about?
-- an emphasis on the individual as a performance of individuality
-- an ability to track all your interactions in order to figure out what you "like," for a value of "like" that mostly means stuff that will keep you interacting
-- a focus on using that knowledge to keep feeding you stuff that will prolong the connection
+- self-representation as <span class="fragment highlight-red">performance</span><br />
+- engagement as <span class="fragment highlight-red">confirmation</span><br />
+- interaction as <span class="fragment highlight-red">data</span><br />
 
-where are the flaws?
-- you are not your tweets, or your facebook posts
-- online interactions are nearly always kneejerk reactions, not considered responses
-- the things that will keep you reacting are likewise the extremes
+Note: So, to dig in just a bit on the elements of the antisocial that makes social media what it is: (**CLICK**) **First**, the platforms encourage a presentation of selfhood that is less about representation than about performance, tailoring what is shared to the audience, each of whom is likewise engaged in a performance of self. (**CLICK**) **Second**, the interactions among those performed selves become a form of confirmation -- I see what you are presenting, and respond in the way I am supposed to -- rather than providing room for thoughtful exchange. And (**CLICK**) **third**, the platform ruthlessly tracks these interactions in order to figure out what you "like," for a value of like that most means stuff that you click on, with the goal of feeding more such stuff in order to prolong the connection -- where the connection is not between you and other humans engaged in a process of thinking together, but rather between you and a platform whose profits derive from your attention.
 
 
+# 
+
+Note: There are so many things wrong with this that it's hard to know where to begin. When we are reduced to performing selfhood, when our conversations get turned into performances of connection, our online interactions far too often turn into knee-jerk reactions rather than considered responses. And on some level, this is what the platform wants. Whatever the algorithm behind social media platforms actually looks like when you dig into its code, it serves to produce the greatest rewards for the worst behavior, elevating posts that will produce reactions and thus feeding our worst impulses. As Siva Vaidhyanathan argues,
 
 
+> “Facebook is explicitly engineered to promote items that generate strong reactions….Facebook measures engagement by the number of clicks, “likes,” shares, and comments. This design feature -- or flaw, if you care about the quality of knowledge and debate -- ensures that the most inflammatory material will travel the farthest and the fastest.” (Vaidyanathan 6)
 
-FROM HERE: 
-- a model of sociality that is about the individuated self and its accumulated connections, rather than about multi-directional relationship building through ongoing conversation
-- turns conversation into a performance of conversation, and self-representation into a performance of self
-- and via the algorithm, does so inside a black box that we not only cannot control, but that produces the greatest rewards for the worst behavior
-- here Martin Eve on the failures of "distributed digital governance systems of the blockchain" etc
-- It's not just a matter of centralization/decentralization; it's about ensuring that the social is not subjugated to the technical
+Note: **READ SLIDE.** The point is to keep you glued to the interface, to keep the dopamine hits coming. It is not only not engineered to create a sense of social connection or responsibility to the actually existing humans on the other side of those interactions -- it in fact functions to break any such sense of sociality, except insofar as it confirms our own performances.
 
-“Facebook is explicitly engineered to promote items that generate strong reactions….Facebook measures engagement by the number of clicks, “likes,” shares, and comments. This design feature—or flaw, if you care about the quality of knowledge and debate—ensures that the most inflammatory material will travel the farthest and the fastest.” (Vaid 6) — tie to point about the algorithm: the point is to keep you glued to the interface, to keep the dopamine hits coming, not to create a sense of connection or responsibility to the actual humans involved
-- In a footnote: “I will capitalize “Friend” throughout this book to distinguish the Facebook-mediated relationship from actual friendship.” (Vaid 7) — we have to make this distinction, in no small part because of the performative aspect to self-representation on the platform, as well as the ways the site feeds us what we want to see
 
-on failures of sociality, see Eve, *Paper Thin*, in which he describes the distributed digital governance systems of the blockchain, NFTs, and more as evidence that their developers and adherents "would like to build... a technical system of law enforcement that eradicates all sociality from the implementation of, say, property ownership" (170). Similarly, the platformization of social networks attempted to supplant real sociality with algorithmic connections, resulting in similar disasters. This "subjugation of the social to the technical" (172) is characteristic...
-
-which is to say that it's not just a problem of centralization/decentralization!
-
-take a look at Jessa Lingel, *The Gentrification of the Internet* (U California, 2021): note especially p. 15, when she indicates that there was never a "golden age" on the internet; we moved from an era in which there was wide-open creativity, to be sure, but few had the access and knowledge necessary, to an era of deep corporatization, when the vast majority could access the internet mostly because it was advantageous to its corporate developers for them to do so
-
-see also Penny C.S. Andrews, "The Platformization of Open," in *Reassembling Scholarly Communications,* Eve and Gray, eds.: it's not just about corporate platforms, but also about software as a service
