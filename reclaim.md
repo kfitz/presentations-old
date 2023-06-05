@@ -10,14 +10,14 @@ Note: Thank you so much -- I'm delighted to be here and to get to talk with all 
 
 ## what happened to blogging?
 
-Note: What happened to blogging? This is a question that lots of folks have asked, and there are lots of obvious answers circulating out there, but it's a question that I take seriously, and personally. Because blogging made my career. And I mean that literally: insofar as I have anything like a public presence today, it was created by blogging. Everything I have written, every project I've worked on, every job I've held, to one extent or another I owe to my blog. And so I take what's become of it in the years since pretty hard, and I want to spend some time digging into what went wrong, and to think with all of you about whether, and how, the particular magic that blogs created might be recoverable.
+Note: What happened to blogging? We heard a bit yesterday morning in the opening panel about the early excitement around blogging, and lots of us really want to figure out where that excitement went and whether we might get it back. There are lots of obvious answers circulating out there, but it's a question that I take seriously, and personally. Because blogging made my career. And I mean that literally: insofar as I have anything like a public presence today, it was created by blogging. Everything I have written, every project I've worked on, every job I've held, to one extent or another I owe to my blog. And so I take what's become of it in the years since pretty hard, and I want to spend some time digging into what went wrong, and to think with all of you about whether, and how, the particular magic that blogs created might be recoverable.
 
 
 # 2003
 
 Note: I'm going to begin this inquest by jumping 20 years backward, to 2003. I was an assistant professor of English and Media Studies at a small liberal arts college on the eastern edge of the west coast, right where the sprawl of LA county runs into the desert. I'd been out of grad school for five years, and I was struggling to get my first book published, feeling the deadline of my 2004 tenure review bearing down on me. Spoiler alert: I did receive tenure, as it looked at the time of my review as though I'd found a home for that book, though it ended up being declined at the eleventh hour because the press's marketing guys couldn't figure out how to sell it. It finally did come out from another press in 2006, thankfully, but it ultimately had a far smaller impact on my career than did the writing I had been doing online in the interim.
 
-Just to paint the scene a bit: in 2003, LiveJournal and Blogger had each been around for about four years, and of course GeoCities for another five beyond that. These were a somewhat messy and anarchic set of tools and spaces that allowed users to build out forms of self-representation and community connection, bringing the ethos that had long been found in discussion spaces like USENET, IRC, and a range of MUDs and MOOs to the graphical windows of the web. LiveJournal and Blogger were also the leading edges of the transformation of the world-wide web from a relatively static service, presenting pages that lived on servers requiring both access and a certain degree of expertise in order to manage on the back end. Instead, these new applications embodied the principles of the "read-write web," which allowed users to interact with and add to web content via the front end.
+So, content warning: I’m about to make a lot of us in the room feel super old. But to paint the scene a bit: in 2003, LiveJournal and Blogger had each been around for about four years, and of course GeoCities for another five beyond that. These were a somewhat messy and anarchic set of tools and spaces that allowed users to build out forms of self-representation and community connection, bringing the ethos that had long been found in discussion spaces like USENET, IRC, and a range of MUDs and MOOs to the graphical windows of the web. LiveJournal and Blogger were also the leading edges of the transformation of the world-wide web from a relatively static service, presenting pages that lived on servers requiring both access and a certain degree of expertise in order to manage on the back end. Instead, these new applications embodied the principles of the "read-write web," which allowed users to interact with and add to web content via the front end.
 
 
 # “web 2.0”
@@ -71,7 +71,7 @@ But the idea got stuck somewhere in the back of my head, and a year later, in Ju
 
 # ahaahahhahahahahaahahahahhaahahha
 
-Note: It turned out to be five years, which I don't know what I'd have done if I'd have known that at the time. But even given the deeply naive view of the scholarly publishing process that I was still clinging to at the time, I was antsy. I had Things to Say. And I was tired of waiting for my stuff to find its way to an audience. And one afternoon I was procrastinating by searching online for some old friends from grad school and I ran into this website that one of them had! It was one of those blog things! And it was funny, and smart, and people were reading it. And I knew they were reading it because they were responding to posts in the comments. And I thought, "oh man, that's *it*."
+Note: It turned out to be almost five years, which I don't know what I'd have done if I'd have known that at the time. But even given the deeply naive view of the scholarly publishing process that I was still clinging to at the time, I was antsy. I had Things to Say. And I was tired of waiting for my stuff to find its way to an audience. And one afternoon I was procrastinating by searching online for some old friends from grad school and I ran into this website that one of them had! It was one of those blog things! And it was funny, and smart, and people were reading it. And I knew they were reading it because they were responding to posts in the comments. And I thought, "oh man, that's *it*."
 
 
 ![Screenshot of Planned Obsolescence, 2002](images/plannedobs-old.png)
@@ -110,7 +110,7 @@ Note: Twitter was in this sense just another nail in the coffin, but I hold fast
 
 ![IndieWeb](images/indieweb.png)<!-- .element height="80%" width="80%" -->
 
-Note: Of course, folks wrote WordPress plugins that attempted to repair that conversational leak, by aggregating tweets and republishing them as comments on the post to which they responded, not least the folks affiliated with the IndieWeb community, who argued for personally-owned alternatives to corporate platforms, ensuring that content you produce remained under your own control, published and connected where and when you wanted. While I'm a huge supporter of IndieWeb and its goals, I worry that focusing on *ownership per se* misses a part of what went wrong. The problem is not just that that platforms into which we poured our time and energy, our creativity, our representations of ourselves and our relationships with others -- it's not just that these platforms were corporate-owned. It's not just that those corporations had VCs to whom they had to provide quantitative proof of success. And it's not just that our relationships thus got caught up in the Silicon Valley cash nexus -- though all of that is demonstrably bad, too.
+Note: Of course, folks wrote WordPress plugins that attempted to repair that conversational leak, by aggregating tweets and republishing them as comments on the post to which they responded, not least the folks affiliated with the IndieWeb community, who argued for personally-owned alternatives to corporate platforms, ensuring that content you produce remained under your own control, published and connected where and when you wanted. While I'm a huge supporter of IndieWeb and its goals, I worry that focusing on *ownership per se* misses a part of what went wrong. The problem is not just that the platforms into which we poured our time and energy, our creativity, our representations of ourselves and our relationships with others -- it's not just that these platforms were corporate-owned. It's not just that those corporations had VCs to whom they had to provide quantitative proof of success. And it's not just that our relationships thus got caught up in the Silicon Valley cash nexus -- though all of that is demonstrably bad, too.
 
 
 # antisocial
@@ -120,12 +120,12 @@ Note: What's so antisocial about social media, rather, is mostly a radical misun
 
 > “It’s the story of the hubris of good intentions, a missionary spirit, and an ideology that sees computer code as the universal solvent for all human problems.” (Vaidhyanathan 3)
 
-Note: Siva Vaidhyanathan has described the history of Facebook by saying that "It's the story of the hubris of good intentions, a missionary spirit, and an ideology that sees computer code as the universal solvent for all human problems." That ideology assumes, among other things, that "society" can be represented coherently through the network graph of a highly individuated self and its accumulated connections -- it's nodes and edges and that's about it. The failure to understand sociality as about human relationships and the complex, contingent ways that individuals with different histories, cultures, languages, and experiences build relationships through ongoing conversation and endless negotiation results in, at best, a deeply impoverished network. 
+Note: Siva Vaidhyanathan has described the history of Facebook by saying that "It's the story of the hubris of good intentions, a missionary spirit, and an ideology that sees computer code as the universal solvent for all human problems." That ideology assumes, among other things, that "society" can be represented coherently through the network graph of a highly individuated self and its accumulated connections -- that society is nodes and edges and that's about it. Fred Turner’s *From Counterculture to Cyberculture* is pretty instructive on the ideological connections between the alternative communities of the ‘60s and the libertarian ethos of Silicon Valley, each of which focuses on freedom as something possessed by the sovereign individual. This understanding of freedom as negative liberty (freedom from regulation) rather than positive liberty (freedom to live fully) is a deep failure to reckon with the complexities of sociality. Real sociality is about human relationships and the contingent ways that individuals with different histories, cultures, languages, and experiences build a sense of mutual responsibility through ongoing conversation and endless negotiation – that failure results in, at best, a deeply impoverished network. 
 
 
 > “the subjugation of the social to the technical“ (Eve, forthcoming)
 
-Note: Martin Eve, in a forthcoming project that I was lucky enough to get a sneak preview of, thinks about this mode of platformization -- particularly with respect to the governance processes constructed through the blockchain and epitomized in the cryptocurrencies it supports -- as "the subjugation of the social to the technical." These technologies in fact represent the desire to eliminate the contingencies and complexities of the social and replace them wholesale with the technical. This desire and the degree to which it has manifested in our social media platforms is what leads me to argue that 
+Note: The Silicon Valley dream is a deeply libertarian landscape, one built on platforms that elevate the sovereign individual who can stand tall, without obligation. Martin Eve, in a forthcoming project that I was lucky enough to get a sneak preview of, thinks about this mode of platformization -- particularly with respect to the governance processes constructed through the blockchain and epitomized in the cryptocurrencies it supports -- as "the subjugation of the social to the technical." These technologies in fact represent the desire to eliminate the contingencies and complexities of the social and replace them wholesale with a form of technicality that can be individually optimized. This desire and the degree to which it has manifested in our social media platforms is what leads me to argue that 
 
 
 # social media has never been social
@@ -154,16 +154,38 @@ Note: **READ SLIDE.** The point is to keep you glued to the interface, to keep t
 
 Note: I could go on about this for quite a while, but I think I’ve said enough to convey the depth of the grudge that I bear toward Twitter and Facebook and all of the other social media platforms that together undermined what my small community of bloggers was building together. I have to acknowledge a couple of things here, though. Social media has been enormously important for people who are marginalized, people who are isolated, people who cannot safely be themselves in their families and communities. Many, many people have found support and comfort, and have developed real meaningful relationships that began on these platforms. And I have been able to keep in touch with old friends I’d never have seen otherwise. I have been able to see my nieces and nephews grow up. And social media networks have the potential to provide millions and millions of users with access to news and information. Of course, how good that news and information is, and how much I really get to know about those old friends, and how my nieces and nephews might feel about the pictures their parents are sharing, remains a real question.
 
-The other thing I have to acknowledge, however, as plainly as I can, that I take some responsibility for what social media did to my blogging, and the community I was part of. I mean, I fell for it! I let the immediacy and the reach and the metrics turn my head and pull me away from the work I was doing. And I let it happen in part because, to be frank,
+The other thing I have to acknowledge, however, as plainly as I can, that I own some of the responsibility for what social media did to my blog, and to the community I was part of. I mean, I fell for it! I let the immediacy and the reach and the metrics turn my head and pull me away from the work I was doing. And I let it happen in part because, to be frank,
 
 
 # work
 
-Note: the blog was hard work. It required a lot of time and attention to think through posts and make them worth sharing. It required real engagement with what other writers were posting, and a real willingness to think through their ideas and contribute something to the conversation. Blogging required real work – in the same way that real sociality requires real work – and however immediate blogging’s gratification seemed in comparison with writing (and god forbid trying to publish) an academic book, it had nothing on the nonstop dopamine fountain that was Twitter.
-
-So here’s what I want to do. I want to go back and see if we can recover the best of 2003, and infuse it with what we’ve learned in the two decades since.
+Note: the blog was hard work. It required a lot of time and attention to think through posts and make them worth sharing. It required real engagement with what other writers were posting, and a real willingness to think through their ideas and contribute something to the conversation. Blogging required real work – in the same way that real sociality requires real work – and however immediate blogging’s gratification seemed in comparison with writing (and god forbid trying to publish) an academic book, it had nothing on the nonstop dopamine fountain that was Twitter. So I got pulled away into social media, and so did most of my blogging friends.
 
 
+# where are we now?
+
+Note: But over the last ten years, to one extent or another, nearly all of us have found ourselves in a love/hate relationship with Twitter and Facebook, and lots of us have been looking for more satisfying alternatives. Several of us are part of a small, private Mattermost community that I host, one that is utterly closed and will remain so. Some of us have left Twitter for Mastodon, including the smallish but open instance that my colleagues and I at Humanities Commons are hosting (at hcommons.social – you’re welcome to join us there!)
+. And a few of us keep doing what we can to bring blogging back, to use the web spaces that we own and control to do longer-form, less noisy work.
+
+
+# what now
+
+Note: So if this talk is going to close with anything like a call to action for those of us here, it’s for each of us to go back and see if we can recover the best of 2003, and infuse it with what we’ve learned in the two decades since. What I want to get back to is partly the kind of personally owned infrastructure advocated for by the IndieWeb folks, and partly the decentralized communities of Mastodon. But it’s also an understanding of the web as a space for the kind of inventiveness that doesn’t have a business model behind it. Creativity without capitalists. Thoughtful conversation. The potential for building real relationships. That’s what was best about the web that was – less that the infrastructure was personally owned or decentralized (though that too!), than about its potential for real sociality and the joint invention and experimentation it inspired, the ways that new features got hacked together with duct tape and baling wire rather than with the polish that VC funding brought. I mean, Webrings! Blogrolls! Pingomatic! And RSS!
+
+
+# RSS
+
+Note: RSS, the little engine that could of the web. It’s been pronounced dead more times than I can count, and it just keeps coming back. And so in this vein, I want to close by bringing up one of my web heroes,
+
+
+![Brent Simmons’ blog, inessential](images/simmons.png)
+
+Note: Brent Simmons, the developer behind NetNewsWire. His website, inessential, makes clear that the app – a super clean RSS reader – is and will remain 100% free. Simmons originally launched NetNewsWire in 2002; it was acquired by NewsGator in 2005 and then by Black Pixel in 2011, but in 2018 Simmons reacquired the intellectual property and returned to active development, creating a free and open tool for engaging with the free and open web. And as he notes, he will not accept money for the app – but he points to a number of ways to support it:
+
+
+![How to support NetNewsWire](images/simmons2.png)
+
+Note: The first of those being “Write a blog instead of posting to Twitter or Facebook”! If you don’t do it for me, do it for Brent, and for NetNewsWire. Take your work back. Keep it not just free and open, but genuinely social. Use your work on the web to share, to think, to discuss, to learn. Reclaim your work, for all of us.
 
 ## thank you
 ---
