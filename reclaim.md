@@ -118,7 +118,7 @@ Note: Of course, folks wrote WordPress plugins that attempted to repair that con
 Note: What's so antisocial about social media, rather, is mostly a radical misunderstanding of sociality itself.
 
 
-> “It’s the story of the hubris of good intentions, a missionary spirit, and an ideology that sees computer code as the universal solvent for all human problems.” (Vaidhyanathan 3)
+> “It’s the story of the hubris of good intentions, a missionary spirit, and an ideology that sees computer code as the universal solvent for all human problems.” (Vaidhyanathan, *Antisocial Media* 3)
 
 Note: Siva Vaidhyanathan has described the history of Facebook by saying that "It's the story of the hubris of good intentions, a missionary spirit, and an ideology that sees computer code as the universal solvent for all human problems." That ideology assumes, among other things, that "society" can be represented coherently through the network graph of a highly individuated self and its accumulated connections -- that society is nodes and edges and that's about it. Fred Turner’s *From Counterculture to Cyberculture* is pretty instructive on the ideological connections between the alternative communities of the ‘60s and the libertarian ethos of Silicon Valley, each of which focuses on freedom as something possessed by the sovereign individual. This understanding of freedom as negative liberty (freedom from regulation) rather than positive liberty (freedom to live fully) is a deep failure to reckon with the complexities of sociality. Real sociality is about human relationships and the contingent ways that individuals with different histories, cultures, languages, and experiences build a sense of mutual responsibility through ongoing conversation and endless negotiation – that failure results in, at best, a deeply impoverished network. 
 
@@ -145,16 +145,24 @@ Note: So, to dig in just a bit on the elements of the antisocial that makes soci
 Note: There are so many things wrong with this that it's hard to know where to begin. When we are reduced to performing selfhood, when our conversations get turned into performances of connection, our online interactions far too often turn into knee-jerk reactions rather than considered responses. And on some level, this is what the platform wants. Whatever the algorithm behind social media platforms actually looks like when you dig into its code, it serves to produce the greatest rewards for the worst behavior, elevating posts that will produce reactions and thus feeding our worst impulses. As Siva Vaidhyanathan argues,
 
 
-> “Facebook is explicitly engineered to promote items that generate strong reactions…. Facebook measures engagement by the number of clicks, ‘likes,‘’ shares, and comments. This design feature – or flaw, if you care about the quality of knowledge and debate – ensures that the most inflammatory material will travel the farthest and the fastest.” (Vaidyanathan 6)
+> “Facebook is explicitly engineered to promote items that generate strong reactions…. Facebook measures engagement by the number of clicks, ‘likes,‘’ shares, and comments. This design feature – or flaw, if you care about the quality of knowledge and debate – ensures that the most inflammatory material will travel the farthest and the fastest.” (Vaidyanathan, *Antisocial Media* 6)
 
 Note: **READ SLIDE.** The point is to keep you glued to the interface, to keep the dopamine hits coming. It is not only not engineered to create a sense of social connection or responsibility to the actually existing humans on the other side of those interactions -- it in fact functions to break any such sense of sociality, except insofar as it confirms our own performances.
 
 
 # grrr
 
-Note: I could go on about this for quite a while, but I think I’ve said enough to convey the depth of the grudge that I bear toward Twitter and Facebook and all of the other social media platforms that together undermined what my small community of bloggers was building together. I have to acknowledge a couple of things here, though. Social media has been enormously important for people who are marginalized, people who are isolated, people who cannot safely be themselves in their families and communities. Many, many people have found support and comfort, and have developed real meaningful relationships that began on these platforms. And I have been able to keep in touch with old friends I’d never have seen otherwise. I have been able to see my nieces and nephews grow up. And social media networks have the potential to provide millions and millions of users with access to news and information. Of course, how good that news and information is, and how much I really get to know about those old friends, and how my nieces and nephews might feel about the pictures their parents are sharing, remains a real question.
+Note: I could go on about this for quite a while, but I think I’ve said enough to convey the depth of the grudge that I bear toward Twitter and Facebook and all of the other social media platforms that together undermined what my small community of bloggers was building together. I have to acknowledge a couple of things here, though. First, Jessa Lingel reminds us to ask, however much corporate media platforms have done to gentrify the internet,
 
-The other thing I have to acknowledge, however, as plainly as I can, that I own some of the responsibility for what social media did to my blog, and to the community I was part of. I mean, I fell for it! I let the immediacy and the reach and the metrics turn my head and pull me away from the work I was doing. And I let it happen in part because, to be frank,
+
+> “Was the internet ever really ungentrified? The short answer is, no. There was no golden age when the internet was blind to race, class, and gender, no magical era when communities could thrive without corporate interference and a push toward profits.” (Lingel, *The Gentrification of the Internet* 15)
+
+Note: **READ SLIDE.** Undoubtedly the portrait I have in my head of the wonders of 2003 skews rosy, as a highly educated upper-middle class white cis woman in the academy. It’s likewise important to remember the extent to which the major corporate social media platforms have been important for people who are marginalized or isolated, people who cannot safely be themselves in their families and communities. Many, many people have found support and comfort, and have developed real meaningful relationships that began on these platforms. And I have been able to keep in touch with old friends I’d never have seen otherwise. I have been able to see my nieces and nephews grow up. And social media networks have the potential to provide millions and millions of users with access to news and information. Of course, how good that news and information is, and how much I really get to know about those old friends, and how my nieces and nephews might feel about the pictures their parents are sharing, remains a real question.
+
+
+# responsibility
+
+Note: The other thing I have to acknowledge, as plainly as I can, that I own some of the responsibility for what social media did to my blog, and to the community I was part of. I mean, I fell for it! I let the immediacy and the reach and the metrics turn my head and pull me away from the work I was doing. And I let it happen in part because, to be frank,
 
 
 # work
@@ -170,7 +178,7 @@ Note: But over the last ten years, to one extent or another, nearly all of us ha
 
 # go back
 
-Note: So if this talk is going to close with anything like a call to action for those of us here, it’s for each of us to go back and see if we can recover the best of 2003, and infuse it with what we’ve learned in the two decades since. What I want to get back to is partly the kind of personally owned infrastructure advocated for by the IndieWeb folks, and partly the decentralized communities of Mastodon. But it’s also an understanding of the web as a space for the kind of inventiveness that doesn’t have a business model behind it. Creativity without capitalists. Thoughtful conversation. The potential for building real relationships. That’s what was best about the web that was – less that the infrastructure was personally owned or decentralized (though that too!), than about its potential for real sociality and the joint invention and experimentation it inspired, the ways that new features got hacked together with duct tape and baling wire rather than with the polish that VC funding brought. I mean, Webrings! Blogrolls! Pingomatic! And RSS!
+Note: So if this talk is going to close with anything like a call to action for those of us here, it’s for each of us to go back and see if we can recover the best of 2003, and infuse it with what we’ve learned in the two decades since. What I want to get back to is partly the kind of personally owned infrastructure advocated for by the IndieWeb folks, and partly the decentralized communities of Mastodon. But it’s also an understanding of the web as a space for the kind of inventiveness that doesn’t have a business model behind it. Creativity without venture capitalists. Thoughtful conversation. The potential for building real relationships. That’s what was best about the web that was – less that the infrastructure was personally owned or decentralized (though that too!), than about its potential for real sociality and the joint invention and experimentation it inspired, the ways that new features got hacked together with duct tape and baling wire rather than with the polish that VC funding brought. I mean, Webrings! Blogrolls! Pingomatic! And RSS!
 
 
 # RSS
@@ -180,12 +188,12 @@ Note: RSS, the little engine that could of the web. It’s been pronounced dead 
 
 ![Brent Simmons’ blog, inessential](images/simmons.png)
 
-Note: Brent Simmons, the developer behind NetNewsWire. His website, inessential, makes clear that the app – a super clean RSS reader – is and will remain 100% free. Simmons originally launched NetNewsWire in 2002; it was acquired by NewsGator in 2005 and then by Black Pixel in 2011, but in 2018 Simmons reacquired the intellectual property and returned to active development, creating a free and open tool for engaging with the free and open web. And as he notes, he will not accept money for the app – but he points to a number of ways to support it:
+Note: Brent Simmons, the developer behind NetNewsWire. His website, inessential, makes clear that the app – a super clean RSS reader – is and will remain 100% free. Simmons originally launched NetNewsWire in 2002; it was acquired by NewsGator in 2005 and then by Black Pixel in 2011. Sometime in about 2015, Brent started working on a new RSS reader, Evergreen, but in 2018 he reacquired the intellectual property involved in NetNewsWire, merged it with the new product, and returned it to active development. So: NetNewsWire, a free and open tool for engaging with the free and open web. And as he notes, he will not accept money for the app – but he points to a number of ways to support it:
 
 
 ![How to support NetNewsWire](images/simmons2.png)
 
-Note: The first of those being “Write a blog instead of posting to Twitter or Facebook”! If you don’t do it for me, do it for Brent, and for NetNewsWire. Take your work back. Keep it not just free and open, but genuinely social. Use your work on the web to share, to think, to discuss, to learn. Reclaim your work, for all of us.
+Note: The first of those being “Write a blog instead of posting to Twitter or Facebook”! If you don’t do it for me, do it for Brent, and for NetNewsWire. Take your work back. Keep it not just free and open, but genuinely social. Use your work on the web to share, to think, to discuss, to learn. Reclaim your intellectual property, and your intellectual production, for all of us.
 
 
 ## thank you
