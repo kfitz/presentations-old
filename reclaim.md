@@ -168,7 +168,7 @@ Note: But over the last ten years, to one extent or another, nearly all of us ha
 . And a few of us keep doing what we can to bring blogging back, to use the web spaces that we own and control to do longer-form, less noisy work.
 
 
-# what now
+# go back
 
 Note: So if this talk is going to close with anything like a call to action for those of us here, it’s for each of us to go back and see if we can recover the best of 2003, and infuse it with what we’ve learned in the two decades since. What I want to get back to is partly the kind of personally owned infrastructure advocated for by the IndieWeb folks, and partly the decentralized communities of Mastodon. But it’s also an understanding of the web as a space for the kind of inventiveness that doesn’t have a business model behind it. Creativity without capitalists. Thoughtful conversation. The potential for building real relationships. That’s what was best about the web that was – less that the infrastructure was personally owned or decentralized (though that too!), than about its potential for real sociality and the joint invention and experimentation it inspired, the ways that new features got hacked together with duct tape and baling wire rather than with the polish that VC funding brought. I mean, Webrings! Blogrolls! Pingomatic! And RSS!
 
@@ -186,6 +186,7 @@ Note: Brent Simmons, the developer behind NetNewsWire. His website, inessential,
 ![How to support NetNewsWire](images/simmons2.png)
 
 Note: The first of those being “Write a blog instead of posting to Twitter or Facebook”! If you don’t do it for me, do it for Brent, and for NetNewsWire. Take your work back. Keep it not just free and open, but genuinely social. Use your work on the web to share, to think, to discuss, to learn. Reclaim your work, for all of us.
+
 
 ## thank you
 ---
