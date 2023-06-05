@@ -25,28 +25,32 @@ So, content warning: I’m about to make a lot of us in the room feel super old.
 Note: That "read-write web" was one feature of the complex of web-based applications that was in the early years of the 21st century turning the browser from a means of presenting static web pages into something far more dynamic. That more dynamic thing is part of what many of us originally understood the term "web 2.0" to mean. Credit for coining the term is usually given to Tim O'Reilly, who in 2004 hosted the first "Web 2.0 Summit" intended to explore what the web was becoming as it took flight from the ashes of the dot-com bust. Wikipedia, however, attributes the first use of the term "web 2.0" to Darcy DiNucci, in a 1999 article entitled "Fragmented Future." 
 
 
-![Screenshot of DiNucci, Fragmented Futures](images/dinucci.png)
+![Screenshot of DiNucci, Fragmented Futures](images/dinucci.png)<!-- .element height="80%" width="80%" -->
 <cite>http://darcyd.com/fragmented_future.pdf</cite>
 
 Note: In this article, DiNucci describes the first-generation web as "essentially a prototype -- a proof of concept" for "interactive content universally accessible through a standard interface," but given that "it loads into a browser window in essentially static screenfuls," it was clear even then that it was "only an embryo of the Web to come." DiNucci went on to describe the many screens and devices that might interact with what she called "web 2.0" in the future (including your microwave, which might automatically seek out correct cooking times online), noting quite presciently the particular challenges that web publishing would face in encountering such a wide range of screen sizes and resolutions. What DiNucci did not include in this fragmented future was what would happen when the web browser did more than retrieve and display content, but rather allowed for the creation of that content in the first place. 
 
 
 ![Screenshot of Idehen, RSS INJAN](images/idehen1.png)
+<cite>https://www.openlinksw.com/blog/~kidehen/</cite>
 
 Note: It took another few years before Kingsley Idehen, in 2003, wrote a blog post thinking about XML-based applications such as RSS and their potential for "the next generation web," saying "I refer to this as Web 2.0." 
 
 
 ![Screenshot of Idehen, Jeff Bezos Comments](images/idehen2.png)
+<cite>https://www.openlinksw.com/blog/~kidehen/</cite>
 
 Note: That this post was followed a month later by another quoting Jeff Bezos on the "executable Web" and the rapidly expanding "Amazon web services" that were supporting a wide range of database-driven online retail sites points exactly to the problem of "web 2.0": the channeling of interactive creativity into business. (And if you need something to break your heart just a little bit this morning, try this on for size:
 
 
 ![Screenshot highlighting passage in Idehen, Jeff Bezos Comments](images/idehen3.png)
+<cite>https://www.openlinksw.com/blog/~kidehen/</cite>
 
 Note: That tiny text reads "Q: What benefit is Amazon.com getting from this? A: It's too early to say. It's certainly not a major source of revenue for us. But when people use our Web services, they give us credit for that. This turns out to be very helpful.")
 
 
 ![Screenshot of wayback machine version of web2con site](images/web2con.png)
+<cite>http://www.web2con/web2con via the wayback machine</cite>
 
 Note: Sigh. In any case. By the time Tim O'Reilly and John Battelle took the stage for the opening keynote at that first Web 2.0 Summit, they were ready to outline a vision for the future of "the web as platform," starring a lot of folks looking to build "truly great companies" on top of it. And it's thanks to those folks, and their interest in platformization, 
 
