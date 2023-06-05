@@ -191,4 +191,4 @@ Note: The first of those being “Write a blog instead of posting to Twitter or 
 ---
 <smaller>Kathleen Fitzpatrick // hcommons.social/@kfitz</smaller>
 
-Note: Many thanks.
+Note: Many thanks!
