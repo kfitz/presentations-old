@@ -26,6 +26,7 @@ Note: That "read-write web" was one feature of the complex of web-based applicat
 
 
 ![Screenshot of DiNucci, Fragmented Futures](images/dinucci.png)
+<cite>http://darcyd.com/fragmented_future.pdf</cite>
 
 Note: In this article, DiNucci describes the first-generation web as "essentially a prototype -- a proof of concept" for "interactive content universally accessible through a standard interface," but given that "it loads into a browser window in essentially static screenfuls," it was clear even then that it was "only an embryo of the Web to come." DiNucci went on to describe the many screens and devices that might interact with what she called "web 2.0" in the future (including your microwave, which might automatically seek out correct cooking times online), noting quite presciently the particular challenges that web publishing would face in encountering such a wide range of screen sizes and resolutions. What DiNucci did not include in this fragmented future was what would happen when the web browser did more than retrieve and display content, but rather allowed for the creation of that content in the first place. 
 
