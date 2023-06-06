@@ -176,7 +176,7 @@ Note: The other thing I have to acknowledge, as plainly as I can, that I own som
 Note: the blog was hard work. It required a lot of time and attention to think through posts and make them worth sharing. It required real engagement with what other writers were posting, and a real willingness to think through their ideas and contribute something to the conversation. Blogging required real work – in the same way that real sociality requires real work – and however immediate blogging’s gratification seemed in comparison with writing (and god forbid trying to publish) an academic book, it had nothing on the nonstop dopamine fountain that was Twitter. So I got pulled away into social media, and so did most of my blogging friends.
 
 
-# where are we now?
+## where are we now?
 
 Note: But over the last ten years, to one extent or another, nearly all of us have found ourselves in a love/hate relationship with Twitter and Facebook, and lots of us have been looking for more satisfying alternatives. Several of us are part of a small, private Mattermost community that I host, one that is utterly closed and will remain so. Some of us have left Twitter for Mastodon, including the smallish but open instance that my colleagues and I at Humanities Commons are hosting (at hcommons.social – you’re welcome to join us there!)
 . And a few of us keep doing what we can to bring blogging back, to use the web spaces that we own and control to do longer-form, less noisy work.
